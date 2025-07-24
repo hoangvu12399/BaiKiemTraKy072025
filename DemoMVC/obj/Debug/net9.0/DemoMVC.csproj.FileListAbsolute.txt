@@ -1,0 +1,10 @@
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.csproj.AssemblyReference.cache
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.AssemblyInfoInputs.cache
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.AssemblyInfo.cs
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.csproj.CoreCompileInputs.cache
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.RazorAssemblyInfo.cache
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.RazorAssemblyInfo.cs
+D:\BTL\PTPMQL\BaiKiemTraKy072025\DemoMVC\obj\Debug\net9.0\DemoMVC.sourcelink.json
